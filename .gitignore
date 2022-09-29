@@ -1,0 +1,7 @@
+__pycache__/
+DataBaseKO/
+CNN/
+history/
+env/
+KaraOne_EEGSpeech_X.npy
+KaraOne_EEGSpeech_y.npy

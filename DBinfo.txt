@@ -1,0 +1,15 @@
+Kara One Database links:
+http://www.cs.toronto.edu/~complingweb/data/karaOne/karaOne.html
+https://ctipub-my.sharepoint.com/:u:/g/personal/ana_luiza_dumitrescu_upb_ro/EeUEcyxfGwlPlCorG16ZOC8Bv8QpbpFIxIvNSCpI9TKnTg?e=hkoMbE
+
+Segmented data link:
+https://ctipub-my.sharepoint.com/:u:/g/personal/ana_luiza_dumitrescu_upb_ro/EX1fHC_smD1NsuUpsTWDCsQBzIYjaT47ijLeQJmnmnedUQ?e=7TLJ9n
+
+Final Data Base X dataset:
+https://ctipub-my.sharepoint.com/:u:/g/personal/ana_luiza_dumitrescu_upb_ro/ET1btZCFF3xPk7y5naZUGMsB_CY_liLeWoxRYbmvFcXMbw?e=cQQSay
+
+Final Data Base y target dataset:
+https://ctipub-my.sharepoint.com/:u:/g/personal/ana_luiza_dumitrescu_upb_ro/EWpICT0HRCxMmYyL5P7fH9YBNz7lp4VVTyR7nBOMmwqq5g?e=WRyDHi
+
+Final computed features - Frequency, 250s:
+https://ctipub-my.sharepoint.com/:f:/g/personal/ana_luiza_dumitrescu_upb_ro/Eswm7iHyqtBNjb1vEgVVwhAB0mU5qvz-V9bF9W4oOd31EQ?e=m8BCiX
