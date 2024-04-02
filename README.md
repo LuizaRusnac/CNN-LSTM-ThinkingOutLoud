@@ -43,7 +43,7 @@ year={2022},
 volume={12},
 number={22},
 pages={11873},
-doi={[(https://doi.org/10.3390/app122211873)]}
+doi={(https://doi.org/10.3390/app122211873)}
 }
 
 ## License
