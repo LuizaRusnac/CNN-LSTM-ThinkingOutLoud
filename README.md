@@ -35,17 +35,7 @@ In this work, we explore different CNN architectures and feature extraction meth
 
 If you find this work useful for your research, please consider citing our paper:
 
-```@article {rusnac2022,
-  title={Imaginary Speech Recognition Using a Convolutional Network with Long-Short Memory},
-  author={Ana-Luiza Rusnac and Ovidiu Grigore},
-  journal={Applied Science},
-  year={2022},
-  volume={12},
-  number={22},
-  pages={11873},
-  doi={10.3390/app122211873}
-}
-```
+- Ana-Luiza Rusnac and Ovidiu Grigore. (2022). "Imaginary Speech Recognition Using a Convolutional Network with Long-Short Memory." *Applied Science*, 12(22), 11873. [DOI: 10.3390/app122211873](https://doi.org/10.3390/app122211873)
 
 ## License
 
