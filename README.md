@@ -1,10 +1,10 @@
 # Imaginary Speech Recognition Using a Convolutional Network with Long-Short Memory
 
-This repository contains code for various Convolutional Neural Network (CNN) architectures and feature extraction methods for EEG imaginary speech recognition. The code accompanies the paper titled [Imaginary Speech Recognition Using a Convolutional Network with Long-Short Memory](https://www.mdpi.com/2076-3417/12/22/11873), authored by Ana-Luiza Rusnac, Ovidiu Grigore.
+This repository contains code for of the Convolutional Network with Long-Short Memory (CNN-LSTM) model using EEG signals for imaginary speech recognition. The code accompanies the paper titled [Imaginary Speech Recognition Using a Convolutional Network with Long-Short Memory](https://www.mdpi.com/2076-3417/12/22/11873), authored by Ana-Luiza Rusnac, Ovidiu Grigore.
 
 ## Overview
 
-In this work, we explore different CNN architectures and feature extraction methods for EEG-based imaginary speech recognition. The repository includes implementations of various CNN models and feature extraction techniques, along with scripts for data preprocessing, training, evaluation, and visualization.
+The goal of this project is to recognize speech from imaginary utterances, enabling a new method of communication for individuals who are unable to speak vocally. The proposed model utilizes a combination of convolutional neural networks (CNNs) and long short-term memory (LSTM) networks to capture spatial and temporal features from the input data.
 
 ## Contents
 
