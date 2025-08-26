@@ -10,7 +10,7 @@ sel_subjects = ['MM05', 'MM10', 'MM11', 'MM16', 'MM18', 'MM19', 'MM21', 'P02']
 data_evidence = pd.read_excel(r'KO evidence v2.xlsx')
 
 #The entire path to folder DataBaseKO
-save_path = r'C:\Doctorat\workspace\BSThinkingOutLoud\DataBaseKO'
+save_path = r'DataBaseKO'
 drop_ch = (['M1', 'M2', 'EKG', 'EMG', 'Trigger'])
 
 data_segmentation(base_path, sel_subjects, data_evidence, save_path)
